@@ -9,4 +9,4 @@ async function getAllCats(){
     return collection.find().toArray();
 }
 
-module.exports = {insertCat, getAllCats}
+module.exports = {insertCat, getAllCats} 

@@ -16,7 +16,7 @@ const addCards = (items) => {
         $("#card-section").append(itemToAppend)
     });
 }
-
+ 
 function submitForm() {
     let formData = {};
     formData.title = $('#title').val();

@@ -19,7 +19,7 @@
   "homepage": "https://github.com/stephenliu8964/sit725-2024-t1-p2#readme",
   "dependencies": {
     "chai": "^4.3.7",
-    "express": "^4.18.3",
+    "express": "^4.18.3", 
     "http": "^0.0.1-security",
     "mocha": "^10.4.0",
     "mongodb": "^6.5.0",

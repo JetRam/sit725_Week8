@@ -9,4 +9,4 @@ const getAllCats = async function(req, res) {
     return model.getAllCats();
 }
 
-module.exports = {insertCat, getAllCats}
+module.exports = {insertCat, getAllCats} 

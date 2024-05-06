@@ -21,4 +21,4 @@ describe('name2', function() {
             done();
         });
     });
-});
+}); 
